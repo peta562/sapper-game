@@ -1,0 +1,6 @@
+﻿  saper.cpp
+C:\Users\Пётр\source\repos\saper\saper\saper.cpp(176,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пётр\source\repos\saper\saper\saper.cpp(180,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Пётр\source\repos\saper\saper\saper.cpp(180,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Пётр\source\repos\saper\saper\saper.cpp(91): warning C4715: Sapper: значение возвращается не при всех путях выполнения
+  saper.vcxproj -> C:\Users\Пётр\source\repos\saper\Debug\saper.exe
